@@ -95,7 +95,7 @@ section{
 
 }
 
-.contenedor figure .texto:hover{
+.contenedor:hover  figure .texto{
     margin-top: 0px;
     background-color: rgb(205, 250, 250,0.65);
 }
